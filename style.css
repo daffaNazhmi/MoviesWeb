@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color:white;
+}
+.daffa {
+    background-image: url('ravi-kumar-sKZYPerA5s0-unsplash.jpg');
+    background-size: cover;
+}
